@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 07 23:44:12 BDT 2023","Mon Aug 07 23:44:23 BDT 2023","10879","Default suite","Default test","aarongAppTest.TS3_chooseBrand","aarongAppTest.TS3_chooseBrand","chooseBrand","chooseBrand",""
+"passed","Mon Aug 07 23:45:01 BDT 2023","Mon Aug 07 23:45:21 BDT 2023","20269","Default suite","Default test","aarongAppTest.TS4_findStore","aarongAppTest.TS4_findStore","TS4_findstore","TS4_findstore",""
+"passed","Mon Aug 07 23:42:36 BDT 2023","Mon Aug 07 23:42:47 BDT 2023","11499","Default suite","Default test","aarongAppTest.TS2_trendingSearch","aarongAppTest.TS2_trendingSearch","trendingSearch","trendingSearch",""
+"passed","Mon Aug 07 23:46:43 BDT 2023","Mon Aug 07 23:46:57 BDT 2023","13290","Default suite","Default test","aarongAppTest.TS6_searchProduct","aarongAppTest.TS6_searchProduct","searchProduct","searchProduct",""
+"passed","Mon Aug 07 23:40:05 BDT 2023","Mon Aug 07 23:40:25 BDT 2023","19334","Default suite","Default test","aarongAppTest.TS1_signUp","aarongAppTest.TS1_signUp","signUp","signUp",""
+"passed","Mon Aug 07 23:46:01 BDT 2023","Mon Aug 07 23:46:10 BDT 2023","8753","Default suite","Default test","aarongAppTest.TS5_login","aarongAppTest.TS5_login","login","login",""
